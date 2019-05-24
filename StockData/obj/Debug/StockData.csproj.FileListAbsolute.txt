@@ -1,0 +1,10 @@
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\bin\Debug\StockData.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\bin\Debug\StockData.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\bin\Debug\DataBase.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\bin\Debug\LumenWorks.Framework.IO.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\bin\Debug\DataBase.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\obj\Debug\StockData.csprojResolveAssemblyReference.cache
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\obj\Debug\StockData.uc_StockSelect.resources
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\obj\Debug\StockData.csproj.GenerateResource.Cache
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\obj\Debug\StockData.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockData\obj\Debug\StockData.pdb

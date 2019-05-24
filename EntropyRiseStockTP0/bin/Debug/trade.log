@@ -1,0 +1,334 @@
+﻿2019-04-09 11:11:39>程序启动
+2019-04-09 11:22:57>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:57>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3835
+2019-04-09 11:22:57>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:22:57>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624335294893056
+2019-04-09 11:22:58>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:58>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3845
+2019-04-09 11:22:58>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:22:58>EOS-USDT-委托单EntropyRise20190409112257870725已完成orderqty0.1dealqty0.1
+2019-04-09 11:22:58>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:58>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3845
+2019-04-09 11:22:58>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:58>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3845
+2019-04-09 11:22:58>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:58>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3845
+2019-04-09 11:22:58>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:58>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3845
+2019-04-09 11:22:59>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:22:59>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3845
+2019-04-09 11:22:59>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:22:59>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号P2FuKC_wfVwi416kf_Zbf3GS5Jzicw498MYruUH7JbKfGStacj8HP9B1wrtngwfFj4FLXHY26HNGw0cgJgn-og==
+2019-04-09 11:22:59>eosusdt-P2FuKC_wfVwi416kf_Zbf3GS5Jzicw498MYruUH7JbKfGStacj8HP9B1wrtngwfFj4FLXHY26HNGw0cgJgn-og==-等待撤单成功
+2019-04-09 11:22:59>委托单P2FuKC_wfVwi416kf_Zbf3GS5Jzicw498MYruUH7JbKfGStacj8HP9B1wrtngwfFj4FLXHY26HNGw0cgJgn-og==自动撤单成功,等待撤单成功
+2019-04-09 11:23:00>eosusdt-委托单EntropyRise20190409112259519442撤单成功，剩余0.1
+2019-04-09 11:23:00>eosusdt-再出场价格:5.3796,再出场数量:0.1
+2019-04-09 11:23:00>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:23:00>eosusdt 追加下单成功，委托编号EntropyRise20190409112300120597,数量0.1
+2019-04-09 11:23:01>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:23:01>eosusdt-委托单EntropyRise20190409112300120597已完成orderqty0.1dealqty0.1
+2019-04-09 11:25:16>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:16>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:25:16>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3771
+2019-04-09 11:25:16>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624344413120512
+2019-04-09 11:25:17>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:25:17>EOS-USDT-委托单EntropyRise20190409112516208861已完成orderqty0.1dealqty0.1
+2019-04-09 11:25:17>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:17>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:17>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:17>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:17>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:17>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:17>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:17>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:18>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:18>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:18>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:18>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:18>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:18>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:18>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:18>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:19>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:25:19>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3781
+2019-04-09 11:25:19>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:25:19>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号VMCEWYZZc98RKVKdMNspi7DrvG_skkLGFEVlCKErd4D3Z1p2r9fwybSI36FUFjLM0Uchafp9oLqWBIEpwQ5new==
+2019-04-09 11:25:19>eosusdt-VMCEWYZZc98RKVKdMNspi7DrvG_skkLGFEVlCKErd4D3Z1p2r9fwybSI36FUFjLM0Uchafp9oLqWBIEpwQ5new==-等待撤单成功
+2019-04-09 11:25:19>委托单VMCEWYZZc98RKVKdMNspi7DrvG_skkLGFEVlCKErd4D3Z1p2r9fwybSI36FUFjLM0Uchafp9oLqWBIEpwQ5new==自动撤单成功,等待撤单成功
+2019-04-09 11:25:20>EntropyRise20190409112519853162-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:25:20>eosusdt-委托单EntropyRise20190409112519853162撤单成功，剩余0.1
+2019-04-09 11:25:20>eosusdt-再出场价格:5.3761,再出场数量:0.1
+2019-04-09 11:25:21>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:21>eosusdt 追加下单成功，委托编号EntropyRise20190409112520939755,数量0.1
+2019-04-09 11:25:21>eosusdt-d2KVTCP_Brbi-049Mk3xKLDHl9oVAq8tputeLsT5uyyhS6mDDFDvQtfo5C8LA6nEMQls9wo3vsk0DvR0oYVYmw==-等待撤单成功
+2019-04-09 11:25:21>委托单d2KVTCP_Brbi-049Mk3xKLDHl9oVAq8tputeLsT5uyyhS6mDDFDvQtfo5C8LA6nEMQls9wo3vsk0DvR0oYVYmw==自动撤单成功,等待撤单成功
+2019-04-09 11:25:22>eosusdt-委托单EntropyRise20190409112520939755撤单成功，剩余0.1
+2019-04-09 11:25:22>eosusdt-再出场价格:5.3755,再出场数量:0.1
+2019-04-09 11:25:22>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:22>eosusdt 追加下单成功，委托编号EntropyRise20190409112522359392,数量0.1
+2019-04-09 11:25:22>eosusdt-wcU_WcijFLAFIp0bAO75gmeBHLSal8GXZrXMMOzUnYvTTPQU8xeU74Ps_UhcznCPANWyvM1S4zuYyg-RxdpUjw==-等待撤单成功
+2019-04-09 11:25:22>委托单wcU_WcijFLAFIp0bAO75gmeBHLSal8GXZrXMMOzUnYvTTPQU8xeU74Ps_UhcznCPANWyvM1S4zuYyg-RxdpUjw==自动撤单成功,等待撤单成功
+2019-04-09 11:25:23>eosusdt-委托单EntropyRise20190409112522359392撤单成功，剩余0.1
+2019-04-09 11:25:23>eosusdt-再出场价格:5.3742,再出场数量:0.1
+2019-04-09 11:25:23>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:23>eosusdt 追加下单成功，委托编号EntropyRise20190409112523525523,数量0.1
+2019-04-09 11:25:23>eosusdt-wI6MV4S6Z9K3FfvNV0WCcAH4I_N53XueZ-6OoLLsxvVloZ2Nmuz2G8tAeTQ3bguyE1J0APlTD8UmMTJkrJFTIg==-等待撤单成功
+2019-04-09 11:25:24>委托单wI6MV4S6Z9K3FfvNV0WCcAH4I_N53XueZ-6OoLLsxvVloZ2Nmuz2G8tAeTQ3bguyE1J0APlTD8UmMTJkrJFTIg==自动撤单成功,等待撤单成功
+2019-04-09 11:25:25>EntropyRise20190409112523525523-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:26>EntropyRise20190409112523525523-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:27>EntropyRise20190409112523525523-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:29>EntropyRise20190409112523525523-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:29>eosusdt-委托单EntropyRise20190409112523525523撤单成功，剩余0.1
+2019-04-09 11:25:29>eosusdt-再出场价格:5.37,再出场数量:0.1
+2019-04-09 11:25:29>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:29>eosusdt 追加下单成功，委托编号EntropyRise20190409112529979580,数量0.1
+2019-04-09 11:25:29>eosusdt-ck2RoI6jb0cSDezXg-JfisDAm26I3i7pgwgn-ZDc7S-MNfZYr5j2YaNE8dcSR_Z_S7v4cXkbZoT8gn17JNQtbw==-等待撤单成功
+2019-04-09 11:25:29>委托单ck2RoI6jb0cSDezXg-JfisDAm26I3i7pgwgn-ZDc7S-MNfZYr5j2YaNE8dcSR_Z_S7v4cXkbZoT8gn17JNQtbw==自动撤单成功,等待撤单成功
+2019-04-09 11:25:30>eosusdt-委托单EntropyRise20190409112529979580撤单成功，剩余0.1
+2019-04-09 11:25:30>eosusdt-再出场价格:5.3666,再出场数量:0.1
+2019-04-09 11:25:30>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:30>eosusdt 追加下单成功，委托编号EntropyRise20190409112530717580,数量0.1
+2019-04-09 11:25:31>eosusdt-o3XkHvHP8dNSlPR121sGFbLoXqwQgMNvgzpINLV2D9eNHt30pt0cn9H-QnGYsr3WftEuLJKHCGQ9RrYFjI_sDg==-等待撤单成功
+2019-04-09 11:25:31>委托单o3XkHvHP8dNSlPR121sGFbLoXqwQgMNvgzpINLV2D9eNHt30pt0cn9H-QnGYsr3WftEuLJKHCGQ9RrYFjI_sDg==自动撤单成功,等待撤单成功
+2019-04-09 11:25:31>eosusdt-委托单EntropyRise20190409112530717580撤单成功，剩余0.1
+2019-04-09 11:25:31>eosusdt-再出场价格:5.3648,再出场数量:0.1
+2019-04-09 11:25:32>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:32>eosusdt 追加下单成功，委托编号EntropyRise20190409112531877303,数量0.1
+2019-04-09 11:25:32>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:25:32>eosusdt-委托单EntropyRise20190409112531877303已完成orderqty0.1dealqty0.1
+2019-04-09 11:25:33>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:25:33>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号7f6N8GK2KcLtrNIRnZWWUoTqxIGYFmhqdIKEORZj64k5wdvK1vNXDtO2xtOpdNR12x8uf81O3ZPWoEaKp1Q_cg==
+2019-04-09 11:25:33>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:25:33>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624345509006337
+2019-04-09 11:25:33>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:25:33>EOS-USDT-委托单EntropyRise20190409112533325442已完成orderqty0.1dealqty0.1
+2019-04-09 11:25:34>eosusdt-7f6N8GK2KcLtrNIRnZWWUoTqxIGYFmhqdIKEORZj64k5wdvK1vNXDtO2xtOpdNR12x8uf81O3ZPWoEaKp1Q_cg==-等待撤单成功
+2019-04-09 11:25:34>委托单7f6N8GK2KcLtrNIRnZWWUoTqxIGYFmhqdIKEORZj64k5wdvK1vNXDtO2xtOpdNR12x8uf81O3ZPWoEaKp1Q_cg==自动撤单成功,等待撤单成功
+2019-04-09 11:25:35>EntropyRise20190409112533940574-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:36>EntropyRise20190409112533940574-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:38>EntropyRise20190409112533940574-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:25:39>eosusdt-委托单EntropyRise20190409112533940574撤单成功，剩余0.1
+2019-04-09 11:25:39>eosusdt-再出场价格:5.369,再出场数量:0.1
+2019-04-09 11:25:40>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:40>eosusdt 追加下单成功，委托编号EntropyRise20190409112539963847,数量0.1
+2019-04-09 11:25:40>eosusdt-M_Z-g28_5X5H95cLmvSje8NGS0gUAC0IWS-kWTxpteAnq7ZB5uIwYSuSMfsupMruQz1a3tqJzzFaMObQM6O3-A==-等待撤单成功
+2019-04-09 11:25:40>委托单M_Z-g28_5X5H95cLmvSje8NGS0gUAC0IWS-kWTxpteAnq7ZB5uIwYSuSMfsupMruQz1a3tqJzzFaMObQM6O3-A==自动撤单成功,等待撤单成功
+2019-04-09 11:25:41>eosusdt-委托单EntropyRise20190409112539963847撤单成功，剩余0.1
+2019-04-09 11:25:41>eosusdt-再出场价格:5.3708,再出场数量:0.1
+2019-04-09 11:25:41>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:25:41>eosusdt 追加下单成功，委托编号EntropyRise20190409112541460219,数量0.1
+2019-04-09 11:25:42>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:25:42>eosusdt-委托单EntropyRise20190409112541460219已完成orderqty0.1dealqty0.1
+2019-04-09 11:26:09>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:26:09>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3682
+2019-04-09 11:26:09>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:26:09>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624347827345408
+2019-04-09 11:26:09>EOS-USDT-EntropyRise20190409112608145474-等待撤单成功
+2019-04-09 11:26:09>EntropyRise20190409112608145474-可撤单监控委托单撤单失败,原因：{}
+2019-04-09 11:26:09>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:26:09>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号LFgXKoRokCzboDiEw7G58Xljg2BKVxVlFczQjrUS9Tyl6jZqSc3w3Kss_XKpgix2pm9VWbRDH9oCw6-87rG1HQ==
+2019-04-09 11:26:09>eosusdt-LFgXKoRokCzboDiEw7G58Xljg2BKVxVlFczQjrUS9Tyl6jZqSc3w3Kss_XKpgix2pm9VWbRDH9oCw6-87rG1HQ==-等待撤单成功
+2019-04-09 11:26:09>委托单LFgXKoRokCzboDiEw7G58Xljg2BKVxVlFczQjrUS9Tyl6jZqSc3w3Kss_XKpgix2pm9VWbRDH9oCw6-87rG1HQ==自动撤单成功,等待撤单成功
+2019-04-09 11:26:09>EOS-USDT-委托单EntropyRise20190409112608145474撤单成功，剩余0.1
+2019-04-09 11:26:09>EOS-USDT-再出场价格:5.364,再出场数量:0.1
+2019-04-09 11:26:09>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:26:09>EOS-USDT 追加下单成功，委托编号EntropyRise20190409112609597953,数量0.1
+2019-04-09 11:26:09>EOS-USDT-EntropyRise20190409112609597953-等待撤单成功
+2019-04-09 11:26:10>EntropyRise20190409112609597953-可撤单监控委托单撤单失败,原因：{}
+2019-04-09 11:26:10>EOS-USDT-委托单EntropyRise20190409112609597953撤单成功，剩余0.1
+2019-04-09 11:26:10>EOS-USDT-再出场价格:5.367,再出场数量:0.1
+2019-04-09 11:26:10>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:26:10>EOS-USDT 追加下单成功，委托编号EntropyRise20190409112610800200,数量0.1
+2019-04-09 11:26:10>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:26:10>eosusdt-委托单EntropyRise20190409112609381337已全部成交,无需再出场
+2019-04-09 11:26:10>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:26:10>EOS-USDT-委托单EntropyRise20190409112610800200已完成orderqty0.1dealqty0.1
+2019-04-09 11:26:37>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:26:37>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624349714979840
+2019-04-09 11:26:37>EOS-USDT-EntropyRise20190409112637899170-等待撤单成功
+2019-04-09 11:26:38>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:26:38>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3704
+2019-04-09 11:26:38>EntropyRise20190409112637899170-可撤单监控委托单撤单失败,原因：{}
+2019-04-09 11:26:38>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:26:38>EOS-USDT-委托单EntropyRise20190409112637899170已全部成交,无需再出场
+2019-04-09 11:26:38>PolicyBtcFuture0318-策略已接受入场撤单通知
+2019-04-09 11:26:38>eosusdt-PolicyBtcFuture0318-开仓失败:exceed api request limit,价格:5.3693
+2019-04-09 11:26:39>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:26:39>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号99fpv4gcPY6d-u97_IJJHNucFfNRKp5eYxBVLQb_WJodTL7t3cbKxs1OldpOAvUvZkIqyOOB9Yf__QGLxeIm5w==
+2019-04-09 11:26:39>eosusdt-99fpv4gcPY6d-u97_IJJHNucFfNRKp5eYxBVLQb_WJodTL7t3cbKxs1OldpOAvUvZkIqyOOB9Yf__QGLxeIm5w==-等待撤单成功
+2019-04-09 11:26:39>委托单99fpv4gcPY6d-u97_IJJHNucFfNRKp5eYxBVLQb_WJodTL7t3cbKxs1OldpOAvUvZkIqyOOB9Yf__QGLxeIm5w==自动撤单成功,等待撤单成功
+2019-04-09 11:26:41>EntropyRise20190409112638789329-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:26:41>eosusdt-委托单EntropyRise20190409112638789329撤单成功，剩余0.1
+2019-04-09 11:26:41>eosusdt-再出场价格:5.3722,再出场数量:0.1
+2019-04-09 11:26:41>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:26:41>eosusdt 追加下单成功，委托编号EntropyRise20190409112641885237,数量0.1
+2019-04-09 11:26:41>eosusdt-lQ2Tvi0BuyKZ7vQYjXXT5xlV9epNNPAkOHwWW7oCfoI_Q2P0NbcdB1A48nY3ogFqB74OXJ4FTfJqhbqdya7njA==-等待撤单成功
+2019-04-09 11:26:41>委托单lQ2Tvi0BuyKZ7vQYjXXT5xlV9epNNPAkOHwWW7oCfoI_Q2P0NbcdB1A48nY3ogFqB74OXJ4FTfJqhbqdya7njA==自动撤单成功,等待撤单成功
+2019-04-09 11:26:42>EntropyRise20190409112641885237-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:26:42>eosusdt-委托单EntropyRise20190409112641885237撤单成功，剩余0.1
+2019-04-09 11:26:42>eosusdt-再出场价格:5.3775,再出场数量:0.1
+2019-04-09 11:26:43>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:26:43>eosusdt 追加下单成功，委托编号EntropyRise20190409112642445978,数量0.1
+2019-04-09 11:26:44>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:26:44>eosusdt-委托单EntropyRise20190409112642445978已完成orderqty0.1dealqty0.1
+2019-04-09 11:31:40>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:31:40>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624369532283904
+2019-04-09 11:31:40>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:31:40>EOS-USDT-委托单EntropyRise20190409113139889557已完成orderqty0.1dealqty0.1
+2019-04-09 11:31:40>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:31:40>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号In87nM13m0S2924NE453wLeNUMPA1MQCZFbsupn71zHwb8KcHNQ_xT3PMLJwg_26rWScsuumk3EEEwyrw61_xw==
+2019-04-09 11:31:40>eosusdt-In87nM13m0S2924NE453wLeNUMPA1MQCZFbsupn71zHwb8KcHNQ_xT3PMLJwg_26rWScsuumk3EEEwyrw61_xw==-等待撤单成功
+2019-04-09 11:31:41>委托单In87nM13m0S2924NE453wLeNUMPA1MQCZFbsupn71zHwb8KcHNQ_xT3PMLJwg_26rWScsuumk3EEEwyrw61_xw==自动撤单成功,等待撤单成功
+2019-04-09 11:31:41>eosusdt-委托单EntropyRise20190409113139717270撤单成功，剩余0.1
+2019-04-09 11:31:41>eosusdt-再出场价格:5.3554,再出场数量:0.1
+2019-04-09 11:31:42>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:31:42>eosusdt 追加下单成功，委托编号EntropyRise20190409113141171019,数量0.1
+2019-04-09 11:31:42>eosusdt-wEoeNUbYQhUhtII50Bb6VA4d0EoJpgfEzgp-mXnmXJydoQug477mwSkOslUX39Wx91NBAuqB2kfyIrQjz26Vtg==-等待撤单成功
+2019-04-09 11:31:42>委托单wEoeNUbYQhUhtII50Bb6VA4d0EoJpgfEzgp-mXnmXJydoQug477mwSkOslUX39Wx91NBAuqB2kfyIrQjz26Vtg==自动撤单成功,等待撤单成功
+2019-04-09 11:31:43>eosusdt-委托单EntropyRise20190409113141171019撤单成功，剩余0.1
+2019-04-09 11:31:43>eosusdt-再出场价格:5.3535,再出场数量:0.1
+2019-04-09 11:31:43>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:31:43>eosusdt 追加下单成功，委托编号EntropyRise20190409113143383929,数量0.1
+2019-04-09 11:31:44>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:31:44>eosusdt-委托单EntropyRise20190409113143383929已完成orderqty0.1dealqty0.1
+2019-04-09 11:33:19>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:19>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624376014643200
+2019-04-09 11:33:19>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:19>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号Vxi9bAwqunNYGukgz1qPDDxQAR-VqTyVEOVwwXjvD6aabbnTp64VdZXCbS-1n64DjL0R-WyhdUTVTZez327nHQ==
+2019-04-09 11:33:19>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:19>EOS-USDT-委托单EntropyRise20190409113318698413已完成orderqty0.1dealqty0.1
+2019-04-09 11:33:20>eosusdt-Vxi9bAwqunNYGukgz1qPDDxQAR-VqTyVEOVwwXjvD6aabbnTp64VdZXCbS-1n64DjL0R-WyhdUTVTZez327nHQ==-等待撤单成功
+2019-04-09 11:33:20>EntropyRise20190409113318305855-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:33:20>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:20>eosusdt-委托单EntropyRise20190409113318305855已全部成交,无需再出场
+2019-04-09 11:33:30>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:30>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624376730814464
+2019-04-09 11:33:30>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:30>EOS-USDT-委托单EntropyRise20190409113329427799已完成orderqty0.1dealqty0.1
+2019-04-09 11:33:30>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:30>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号N-zhUsDyKEaWYiEVS_yIEQtXTv6N91lHRQZMrEbfmRRtrWe7ZHslDMosMXhO2cA3rmvHI8fpdAmgPduxaz-bxQ==
+2019-04-09 11:33:31>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:31>eosusdt-委托单EntropyRise20190409113329429591已完成orderqty0.1dealqty0.1
+2019-04-09 11:33:31>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:31>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624376840462336
+2019-04-09 11:33:31>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:31>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号xPe3nq4if-PbN2VrYoWvRXEMib7lLV_u2_H2vzRsfpXE0weZG1ndZtPgNhJljQRWGKnrc8ThbiKIEROHtmaFvw==
+2019-04-09 11:33:32>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:32>EOS-USDT-委托单EntropyRise20190409113331152952已完成orderqty0.1dealqty0.1
+2019-04-09 11:33:33>eosusdt-xPe3nq4if-PbN2VrYoWvRXEMib7lLV_u2_H2vzRsfpXE0weZG1ndZtPgNhJljQRWGKnrc8ThbiKIEROHtmaFvw==-等待撤单成功
+2019-04-09 11:33:33>委托单xPe3nq4if-PbN2VrYoWvRXEMib7lLV_u2_H2vzRsfpXE0weZG1ndZtPgNhJljQRWGKnrc8ThbiKIEROHtmaFvw==自动撤单成功,等待撤单成功
+2019-04-09 11:33:34>eosusdt-委托单EntropyRise20190409113331537799撤单成功，剩余0.1
+2019-04-09 11:33:34>eosusdt-再出场价格:5.346,再出场数量:0.1
+2019-04-09 11:33:35>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:33:35>eosusdt 追加下单成功，委托编号EntropyRise20190409113334549191,数量0.1
+2019-04-09 11:33:39>eosusdt-IZD4zbTBYew5id7GtRU9LXzjWmaRm1BP02Mk0BxoislmxNqXHAArElDVg4NF72QuDsgAuXzrt99BITEjkM3Srg==-等待撤单成功
+2019-04-09 11:33:39>EntropyRise20190409113334549191-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:33:39>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:39>eosusdt-委托单EntropyRise20190409113334549191已全部成交,无需再出场
+2019-04-09 11:33:41>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:41>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624377477666816
+2019-04-09 11:33:41>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:33:41>eosusdt-PolicyBtcFuture0318-开仓下单成功，委托编号x68v4ETPo-JlQecLG2RboMWr2c9cmVQvxjfpOS5iPWbJIZJrJ7EbjFIdFYEVWUN-_M0PMIF96iemDyc5CEjyLg==
+2019-04-09 11:33:41>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:41>EOS-USDT-委托单EntropyRise20190409113341144021已完成orderqty0.1dealqty0.1
+2019-04-09 11:33:42>eosusdt-x68v4ETPo-JlQecLG2RboMWr2c9cmVQvxjfpOS5iPWbJIZJrJ7EbjFIdFYEVWUN-_M0PMIF96iemDyc5CEjyLg==-等待撤单成功
+2019-04-09 11:33:42>委托单x68v4ETPo-JlQecLG2RboMWr2c9cmVQvxjfpOS5iPWbJIZJrJ7EbjFIdFYEVWUN-_M0PMIF96iemDyc5CEjyLg==自动撤单成功,等待撤单成功
+2019-04-09 11:33:43>EntropyRise20190409113341992240-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:33:43>eosusdt-委托单EntropyRise20190409113341992240撤单成功，剩余0.1
+2019-04-09 11:33:43>eosusdt-再出场价格:5.3404,再出场数量:0.1
+2019-04-09 11:33:43>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:33:43>eosusdt 追加下单成功，委托编号EntropyRise20190409113343170100,数量0.1
+2019-04-09 11:33:43>eosusdt-Lph4RVoR54h60JndhB0U9cbi34PkpvEo4nB8G2XvbF_YdXttrqfQ86GodBzEj4fTX76dzF0dEH4kbObrPTH2Fg==-等待撤单成功
+2019-04-09 11:33:44>委托单Lph4RVoR54h60JndhB0U9cbi34PkpvEo4nB8G2XvbF_YdXttrqfQ86GodBzEj4fTX76dzF0dEH4kbObrPTH2Fg==自动撤单成功,等待撤单成功
+2019-04-09 11:33:45>EntropyRise20190409113343170100-可撤单监控委托单撤单失败,原因：submit cancel invalid order state
+2019-04-09 11:33:45>eosusdt-委托单EntropyRise20190409113343170100撤单成功，剩余0.1
+2019-04-09 11:33:45>eosusdt-再出场价格:5.3373,再出场数量:0.1
+2019-04-09 11:33:45>PolicyBtcFuture0318-策略已接收入场追单通知
+2019-04-09 11:33:45>eosusdt 追加下单成功，委托编号EntropyRise20190409113345816991,数量0.1
+2019-04-09 11:33:45>eosusdt-090ZQH9XSDOvqTtQOK31wO72VkPaRdD70XlT8yonwBJV-oS0_NG9uy90cD7eVT2Y9EjhDUgcjb4Bd8lovw83Fw==-等待撤单成功
+2019-04-09 11:33:45>委托单090ZQH9XSDOvqTtQOK31wO72VkPaRdD70XlT8yonwBJV-oS0_NG9uy90cD7eVT2Y9EjhDUgcjb4Bd8lovw83Fw==自动撤单成功,等待撤单成功
+2019-04-09 11:33:47>EntropyRise20190409113345816991-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:33:49>EntropyRise20190409113345816991-可撤单监控委托单撤单失败,原因：exceed api request limit
+2019-04-09 11:33:49>PolicyBtcFuture0318-策略已接受开仓通知，成交数量:0.1
+2019-04-09 11:33:49>eosusdt-委托单EntropyRise20190409113345816991已全部成交,无需再出场
+2019-04-09 11:35:00>PolicyBtcFuture0318-策略已接受开仓下单通知
+2019-04-09 11:35:00>EOS-USDT-PolicyBtcFuture0318-开仓下单成功，委托编号2624382633249792
+2019-04-09 14:09:45>程序启动
+2019-04-09 14:11:07>程序启动
+2019-04-09 14:13:18>程序启动
+2019-04-09 14:16:21>程序启动
+2019-04-09 14:19:41>程序启动
+2019-04-10 15:32:21>程序启动
+2019-04-10 15:38:13>程序启动
+2019-04-10 15:57:43>程序启动
+2019-04-10 16:24:57>程序启动
+2019-04-10 16:25:54>程序启动
+2019-04-10 16:26:56>程序启动
+2019-04-10 16:30:19>程序启动
+2019-04-10 16:30:26>程序启动
+2019-04-10 16:30:53>程序启动
+2019-04-10 16:31:16>PolicyBtcFuture0226-900-100-0005-06-02-策略已接受开仓下单通知
+2019-04-10 16:31:16>EOS-USD-190628-PolicyBtcFuture0226-900-100-0005-06-02-开仓下单成功，委托编号2631209908737024
+2019-04-10 16:31:16>EOS-USD-190628-EntropyRise20190410163116320709-等待撤单成功
+2019-04-10 16:31:17>委托单EntropyRise20190410163116320709自动撤单成功,等待撤单成功
+2019-04-10 16:31:17>EOS-USD-190628-委托单EntropyRise20190410163116320709撤单成功，剩余1
+2019-04-10 16:31:17>EOS-USD-190628-再出场价格:6.09,再出场数量:1
+2019-04-10 16:31:17>PolicyBtcFuture0226-900-100-0005-06-02-策略已接收入场追单通知
+2019-04-10 16:31:17>EOS-USD-190628 追加下单成功，委托编号EntropyRise20190410163117118641,数量1
+2019-04-10 16:31:17>PolicyBtcFuture0226-900-100-0005-06-02-策略已接受开仓通知，成交数量:1
+2019-04-10 16:31:17>EOS-USD-190628-委托单EntropyRise20190410163117118641已完成orderqty1dealqty1
+2019-04-10 16:33:16>程序启动
+2019-04-10 16:37:45>程序启动
+2019-04-10 16:38:06>PolicyBtcFuture0226-900-100-0005-06-02-策略已接受开仓下单通知
+2019-04-10 16:38:06>EOS-USD-190628-PolicyBtcFuture0226-900-100-0005-06-02-开仓下单成功，委托编号2631236728923136
+2019-04-10 16:38:06>EOS-USD-190628-EntropyRise20190410163805699179-等待撤单成功
+2019-04-10 16:38:06>PolicyBtcFuture0226-900-100-0005-06-02-策略已接受开仓通知，成交数量:1
+2019-04-10 16:38:06>EOS-USD-190628-委托单EntropyRise20190410163805699179已全部成交,无需再出场
+2019-04-10 16:38:42>PolicyBtcFuture0226-900-100-0005-06-02-策略已接受平仓下单通知
+2019-04-10 16:38:42>EOS-USD-190628-PolicyBtcFuture0226-900-100-0005-06-02-平仓下单成功，委托编号2631239109448704
+2019-04-10 16:38:42>EOS-USD-190628-EntropyRise20190410163842549255-等待撤单成功
+2019-04-10 16:38:42>PolicyBtcFuture0226-900-100-0005-06-02-策略已接受平仓通知-EntropyRise20190410163842549255-有单子：True
+2019-04-10 16:38:42>EOS-USD-190628-委托单EntropyRise20190410163842549255已全部成交,无需再出场
+2019-04-11 13:28:33>程序启动
+2019-04-11 13:28:52>程序启动
+2019-04-11 13:30:05>程序启动
+2019-04-11 13:39:47>程序启动
+2019-04-11 13:39:54>程序启动
+2019-04-11 13:40:24>程序启动
+2019-04-11 13:40:31>程序启动
+2019-04-11 13:49:29>程序启动
+2019-04-11 13:49:36>程序启动
+2019-04-11 15:20:59>程序启动
+2019-04-12 13:43:57>程序启动
+2019-04-12 13:44:30>程序启动
+2019-04-12 15:06:33>程序启动
+2019-04-12 15:06:41>程序启动
+2019-04-12 15:08:12>程序启动
+2019-04-12 15:08:41>程序启动
+2019-04-15 13:25:14>程序启动
+2019-04-15 13:26:19>程序启动
+2019-04-15 13:26:31>程序启动
+2019-04-15 13:37:37>程序启动
+2019-04-15 13:38:02>程序启动
+2019-04-15 13:39:53>程序启动
+2019-04-15 13:44:36>程序启动
+2019-04-15 13:44:43>程序启动
+2019-04-15 13:48:18>程序启动
+2019-04-15 13:48:52>程序启动
+2019-04-15 13:49:01>程序启动
+2019-04-15 13:51:00>程序启动
+2019-04-15 16:23:58>程序启动
+2019-04-15 16:24:17>程序启动
+2019-04-17 16:38:38>程序启动
+2019-04-26 10:20:55>程序启动
+2019-04-26 10:24:18>程序启动
+2019-04-26 10:32:14>程序启动
+2019-04-26 10:32:28>程序启动
+2019-04-26 10:32:43>程序启动
+2019-04-26 10:33:07>程序启动
+2019-04-26 10:33:35>程序启动
+2019-04-26 10:34:17>程序启动
+2019-04-26 11:16:31>程序启动
+2019-04-26 11:16:49>程序启动
+2019-05-14 10:51:02>程序启动
+2019-05-14 10:51:28>程序启动

@@ -1,0 +1,10 @@
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\DataAPI.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\DataAPI.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\StockData.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\DataBase.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\LumenWorks.Framework.IO.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\StockData.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\bin\Debug\DataBase.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\obj\Debug\DataAPI.csprojResolveAssemblyReference.cache
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\obj\Debug\DataAPI.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataAPI\obj\Debug\DataAPI.pdb

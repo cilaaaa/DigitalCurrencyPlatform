@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TradeHistory>
+  <TradeDetail Guid="e281f7ae-8d0f-412d-b186-2f5110087a72">
+    <PolicyName>PolicyBtcFuture0226-900-100-0005-06-02</PolicyName>
+    <Code>EOS-USD-190628</Code>
+    <OHQty>1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>KaiDuo</OpenOrderType>
+    <OpenOrderTime>2019-04-10 16:31:17.000</OpenOrderTime>
+    <OpenOrderPrice>6.089</OpenOrderPrice>
+    <OpenOrderQty>1</OpenOrderQty>
+    <OpenDealPrice>6.09</OpenDealPrice>
+    <OpenDealQty>1</OpenDealQty>
+    <OpenFee>-0.00049261</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>
+    </Remark>
+  </TradeDetail>
+  <TradeDetail Guid="52eb97c5-ed58-402f-b18c-1e3fa1429533">
+    <PolicyName>PolicyBtcFuture0226-900-100-0005-06-02</PolicyName>
+    <Code>EOS-USD-190628</Code>
+    <OHQty>0</OHQty>
+    <GainPolicy>0.0010881403178703</GainPolicy>
+    <GainActure>0.000807212415003393</GainActure>
+    <OpenOrderType>KaiDuo</OpenOrderType>
+    <OpenOrderTime>2019-04-10 16:38:06.000</OpenOrderTime>
+    <OpenOrderPrice>6.061</OpenOrderPrice>
+    <OpenOrderQty>1</OpenOrderQty>
+    <OpenDealPrice>6.061</OpenDealPrice>
+    <OpenDealQty>1</OpenDealQty>
+    <OpenFee>-0.00032998</OpenFee>
+    <CloseOrderType>PingDuo</CloseOrderType>
+    <CloseOrderTime>2019-04-10 16:38:42.000</CloseOrderTime>
+    <CloseOrderPrice>6.065</CloseOrderPrice>
+    <CloseOrderQty>1</CloseOrderQty>
+    <CloseDealPrice>6.067</CloseDealPrice>
+    <CloseDealQty>1</CloseDealQty>
+    <CloseFee>-0.00049448</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>
+    </Remark>
+  </TradeDetail>
+</TradeHistory>

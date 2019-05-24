@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{430B13FD-F7CF-440E-9088-A8A4811B61C9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GeneralForm</RootNamespace>
+    <AssemblyName>GeneralForm</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1Command.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1FlexGrid.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1InputPanel.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Ribbon.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Themes.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=594a0605db190bb9, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Win7Pack.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ComboBoxItem.cs" />
+    <Compile Include="ErrorLog.cs" />
+    <Compile Include="frm_error.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_error.Designer.cs">
+      <DependentUpon>frm_error.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_kReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_kReview.Designer.cs">
+      <DependentUpon>frm_kReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MonitorList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MonitorList.Designer.cs">
+      <DependentUpon>frm_MonitorList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SDKUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SDKUpdate.Designer.cs">
+      <DependentUpon>frm_SDKUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_PolicyUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_PolicyUpdate.Designer.cs">
+      <DependentUpon>frm_PolicyUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_ReceiveLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_ReceiveLog.Designer.cs">
+      <DependentUpon>frm_ReceiveLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_SelectMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_SelectMonitor.Designer.cs">
+      <DependentUpon>frm_SelectMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_kDetailReview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_kDetailReview.Designer.cs">
+      <DependentUpon>frm_kDetailReview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TickReviewA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TickReviewA.Designer.cs">
+      <DependentUpon>frm_TickReviewA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TradeLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TradeLog.Designer.cs">
+      <DependentUpon>frm_TradeLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUITools.cs" />
+    <Compile Include="MonitorStockEventArgs.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SelectMonitorEventArgs.cs" />
+    <Compile Include="ServerLog.cs" />
+    <Compile Include="TickHistory.cs" />
+    <Compile Include="TradeLog.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAPI\DataAPI.csproj">
+      <Project>{d0f5121a-c876-4f13-a273-5f988ac6de08}</Project>
+      <Name>DataAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataBase\DataBase.csproj">
+      <Project>{f8b093f5-1d2e-4a95-a283-46744b460888}</Project>
+      <Name>DataBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataReceiver\DataHub.csproj">
+      <Project>{b781173f-6b16-498a-a795-6e56458dac26}</Project>
+      <Name>DataHub</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockData\StockData.csproj">
+      <Project>{a1f6d1d1-cab8-4759-9445-2c69990f61ae}</Project>
+      <Name>StockData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockPolicies\StockPolicies.csproj">
+      <Project>{8a1fb4b0-5b2f-4242-8122-e305bc22f13b}</Project>
+      <Name>StockPolicies</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockPolicyContorl\StockPolicyContorl.csproj">
+      <Project>{83b4d6e5-645a-4375-accc-c88a053f95f1}</Project>
+      <Name>StockPolicyContorl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockTradeAPI\StockTradeAPI.csproj">
+      <Project>{2e280912-15bb-4d6a-b85e-af3bf6bd87eb}</Project>
+      <Name>StockTradeAPI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frm_error.resx">
+      <DependentUpon>frm_error.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_kReview.resx">
+      <DependentUpon>frm_kReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MonitorList.resx">
+      <DependentUpon>frm_MonitorList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SDKUpdate.resx">
+      <DependentUpon>frm_SDKUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_PolicyUpdate.resx">
+      <DependentUpon>frm_PolicyUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_ReceiveLog.resx">
+      <DependentUpon>frm_ReceiveLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_SelectMonitor.resx">
+      <DependentUpon>frm_SelectMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_kDetailReview.resx">
+      <DependentUpon>frm_kDetailReview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TickReviewA.resx">
+      <DependentUpon>frm_TickReviewA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TradeLog.resx">
+      <DependentUpon>frm_TradeLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.page_excel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ext.Net.Build.Images.delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.text_list_numbers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.application_osx_add.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

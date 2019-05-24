@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PolicyPool>
+  <Account name="123123">
+  <PolicyItem programName="PolicyBidVolumnC.Dll">
+    <SecurityInfo code="600741" market="1" name="华域汽车">
+      <Parameter>
+        <StartDate>2017-07-01</StartDate>
+        <EndDate>2017-10-10</EndDate>
+        <HiPercent>0.8</HiPercent>
+        <LowPercent>3</LowPercent>
+        <BidAmount>500</BidAmount>
+        <Position>9</Position>
+        <IsReal>0</IsReal>
+        <Qty>100</Qty>
+        <Fee>0.14</Fee>
+        <EnterOrderPriceType>XianJiaWeiTuo</EnterOrderPriceType>
+        <EnterOrderWaiteSecond>15</EnterOrderWaiteSecond>
+        <ReEnterPercent>0.2</ReEnterPercent>
+        <CloseOrderPriceType>XianJiaWeiTuo</CloseOrderPriceType>
+        <CloseOrderWaiteSecond>15</CloseOrderWaiteSecond>
+        <ReCloseOrderPriceType>XianJiaWeiTuo</ReCloseOrderPriceType>
+      </Parameter>
+    </SecurityInfo>
+  </PolicyItem>
+  </Account>
+</PolicyPool>

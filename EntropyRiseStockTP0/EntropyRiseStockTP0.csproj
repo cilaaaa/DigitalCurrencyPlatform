@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E0643F28-FEA6-4A13-9E03-DE2D5D3AC5D2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EntropyRiseStockTP0</RootNamespace>
+    <AssemblyName>EntropyRiseStockTP0</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>35312E1D948C832111EA80C98EEFE1A0B053B885</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>EntropyRiseStockTP0_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>5.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Receive|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Receive\</OutputPath>
+    <DefineConstants>DEBUG;RECEIVE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Receive|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Receive\</OutputPath>
+    <DefineConstants>TRACE;RECEIVE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=944ae1ea0e47ca04, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Command.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1FlexGrid.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1InputPanel.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1List.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=6b24f8f981dbd7bc, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Ribbon.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Themes.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=594a0605db190bb9, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Win7Pack.4, Version=4.0.20171.248, Culture=neutral, PublicKeyToken=79882d576c6336da, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EmailParameterSet.cs" />
+    <Compile Include="frm_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Account.Designer.cs">
+      <DependentUpon>frm_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_MainX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_MainX.Designer.cs">
+      <DependentUpon>frm_MainX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_RunPolicy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_RunPolicy.Designer.cs">
+      <DependentUpon>frm_RunPolicy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_test.Designer.cs">
+      <DependentUpon>frm_test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_TradeMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_TradeMonitor.Designer.cs">
+      <DependentUpon>frm_TradeMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageLog.cs" />
+    <Compile Include="Program.cs">
+      <SubType>
+      </SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_Account.resx">
+      <DependentUpon>frm_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_MainX.resx">
+      <DependentUpon>frm_MainX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_RunPolicy.resx">
+      <DependentUpon>frm_RunPolicy.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_test.resx">
+      <DependentUpon>frm_test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_TradeMonitor.resx">
+      <DependentUpon>frm_TradeMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="EntropyRiseStockTP0_TemporaryKey.pfx" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="5.ico" />
+    <Content Include="policy.xml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\Start_16px_1186321_easyicon.net.png" />
+    <None Include="Resources\Pause_Normal_Red_16px_560489_easyicon.net.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.tick.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.text_list_numbers.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.picture_empty1.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.picture_empty.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.page_white_text_width.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.page_excel.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.page_cancel.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.disconnect.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.database_save.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.database_add.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.connect.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.chart_line.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.cancel.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.bullet_toggle_plus.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.bullet_toggle_minus.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.bullet_start.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.brick.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.add.png" />
+    <None Include="Resources\Ext.Net.Build.Ext.Net.icons.accept.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAPI\DataAPI.csproj">
+      <Project>{d0f5121a-c876-4f13-a273-5f988ac6de08}</Project>
+      <Name>DataAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataBase\DataBase.csproj">
+      <Project>{f8b093f5-1d2e-4a95-a283-46744b460888}</Project>
+      <Name>DataBase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataReceiver\DataHub.csproj">
+      <Project>{b781173f-6b16-498a-a795-6e56458dac26}</Project>
+      <Name>DataHub</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GeneralForm\GeneralForm.csproj">
+      <Project>{430b13fd-f7cf-440e-9088-a8a4811b61c9}</Project>
+      <Name>GeneralForm</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockData\StockData.csproj">
+      <Project>{a1f6d1d1-cab8-4759-9445-2c69990f61ae}</Project>
+      <Name>StockData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockPolicies\StockPolicies.csproj">
+      <Project>{8a1fb4b0-5b2f-4242-8122-e305bc22f13b}</Project>
+      <Name>StockPolicies</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockPolicyContorl\StockPolicyContorl.csproj">
+      <Project>{83b4d6e5-645a-4375-accc-c88a053f95f1}</Project>
+      <Name>StockPolicyContorl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockTradeAPI\StockTradeAPI.csproj">
+      <Project>{2e280912-15bb-4d6a-b85e-af3bf6bd87eb}</Project>
+      <Name>StockTradeAPI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\StockTrade\StockTrade.csproj">
+      <Project>{4069dd86-11f3-4787-96ce-faf405d806db}</Project>
+      <Name>StockTrade</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,287 @@
+*****************2019-04-10 16:26:30******************
+isTerminating=1
+Exception:
+Message:未能加载文件或程序集“Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed”或它的某一个依赖项。找到的程序集清单定义与程序集引用不匹配。 (异常来自 HRESULT:0x80131040)
+StackTrace:   在 PolicyBtcFuture0226.Policy.FunGetResult(String funName, Object result)
+   在 EntropyRiseStockTP0.frm_MainX.PolicyFunArraival(Object sender, PolicyFunCGetEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 380
+   在 EntropyRiseStockTP0.frm_TradeMonitor.tradeFunRaiseResult(Object sender, PolicyFunCGetEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_TradeMonitor.cs:行号 1393
+   在 EntropyRiseStockTP0.frm_TradeMonitor.frmFunPolicyResultArrival(Object sender, PolicyFunCGetEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_TradeMonitor.cs:行号 1398
+   在 EntropyRiseStockTP0.frm_RunPolicy.frmFunRaiseResult(Object sender, PolicyFunCGetEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_RunPolicy.cs:行号 310
+   在 EntropyRiseStockTP0.frm_RunPolicy.rp_PolicyFunCGet_Arrival(Object sender, PolicyFunCGetEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_RunPolicy.cs:行号 316
+   在 StockPolicies.RunningPolicy.RaiseFunCGet(PolicyFunCGetEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockPolicies\RunningPolicy.cs:行号 237
+   在 PolicyBtcFuture0226.Policy.InitArgs()
+   在 EntropyRiseStockTP0.frm_RunPolicy.AddStock(List`1 policies) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_RunPolicy.cs:行号 131
+   在 EntropyRiseStockTP0.frm_RunPolicy.frm_onAddPolicies(Object sender, SelectMonitorEventArgs args) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_RunPolicy.cs:行号 364
+   在 GeneralForm.frm_SelectMonitor.AddPolicies(List`1 policies) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\GeneralForm\frm_SelectMonitor.cs:行号 313
+   在 GeneralForm.frm_SelectMonitor.cbt_ok_Click(Object sender, EventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\GeneralForm\frm_SelectMonitor.cs:行号 304
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 C1.Win.C1Input.C1Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.RunDialog(Form form)
+   在 System.Windows.Forms.Form.ShowDialog(IWin32Window owner)
+   在 System.Windows.Forms.Form.ShowDialog()
+   在 EntropyRiseStockTP0.frm_RunPolicy.command_AddPolicy_Click(Object sender, ClickEventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_RunPolicy.cs:行号 500
+   在 C1.Win.C1Command.C1Command.OnClick(ClickEventArgs e)
+   在 C1.Win.C1Command.C1Command.Invoke(ClickEventArgs e)
+   在 C1.Win.C1Command.BarAddIn.InvokeCommandLink(C1CommandLink cl, InvokedBy invokedBy)
+   在 C1.Win.C1Command.ToolBarAddIn.OnMouseUp(MouseEventArgs e)
+   在 C1.Win.C1Command.C1ToolBar.OnMouseUp(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.Run(Form mainForm)
+   在 EntropyRiseStockTP0.Program.Main() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\Program.cs:行号 30
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.Runtime.Hosting.ManifestRunner.Run(Boolean checkAptModel)
+   在 System.Runtime.Hosting.ManifestRunner.ExecuteAsAssembly()
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext, String[] activationCustomData)
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext)
+   在 System.Activator.CreateInstance(ActivationContext activationContext)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssemblyDebugInZone()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+Source:PolicyBtcFuture0226
+Inner Exception
+*****************2019-04-10 16:31:33******************
+isTerminating=1
+Exception:
+Message:未将对象引用设置到对象的实例。
+StackTrace:   在 EntropyRiseStockTP0.frm_TradeMonitor.grid_celueX_MouseClick(Object sender, MouseEventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_TradeMonitor.cs:行号 1233
+   在 System.Windows.Forms.Control.OnMouseClick(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 C1.Win.C1FlexGrid.Util.BaseControls.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.Run(Form mainForm)
+   在 EntropyRiseStockTP0.Program.Main() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\Program.cs:行号 30
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.Runtime.Hosting.ManifestRunner.Run(Boolean checkAptModel)
+   在 System.Runtime.Hosting.ManifestRunner.ExecuteAsAssembly()
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext, String[] activationCustomData)
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext)
+   在 System.Activator.CreateInstance(ActivationContext activationContext)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssemblyDebugInZone()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+Source:EntropyRiseStockTP0
+Inner Exception
+*****************2019-04-15 13:35:51******************
+isTerminating=1
+Exception:
+Message:已添加了具有相同键的项。
+StackTrace:   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 TradeAPIFcoin.TradeAPI.Subscribe(String code, String subType, String instrumentType)
+   在 EntropyRiseStockTP0.frm_MainX.StartGetData() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 316
+   在 EntropyRiseStockTP0.frm_MainX.ConnectTdx() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 263
+   在 EntropyRiseStockTP0.frm_MainX.StartConnectTDX() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 254
+   在 EntropyRiseStockTP0.frm_MainX.rbt_start_Click(Object sender, EventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 217
+   在 C1.Win.C1Ribbon.RibbonButton.OnClick(EventArgs e)
+   在 C1.Win.C1Ribbon.RibbonButton.j()
+   在 C1.Win.C1Ribbon.a0.f()
+   在 C1.Win.C1Ribbon.a0.av()
+   在 C1.Win.C1Ribbon.c.c()
+   在 C1.Win.C1Ribbon.c.a(MouseEventArgs A_0)
+   在 C1.Framework.XView.OnMouseUp(MouseEventArgs e)
+   在 C1.Win.C1Ribbon.C1Ribbon.OnMouseUp(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 C1.Framework.ScrollableControl.WndProc(Message& m)
+   在 C1.Win.C1Ribbon.C1Ribbon.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.Run(Form mainForm)
+   在 EntropyRiseStockTP0.Program.Main() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\Program.cs:行号 30
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.Runtime.Hosting.ManifestRunner.Run(Boolean checkAptModel)
+   在 System.Runtime.Hosting.ManifestRunner.ExecuteAsAssembly()
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext, String[] activationCustomData)
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext)
+   在 System.Activator.CreateInstance(ActivationContext activationContext)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssemblyDebugInZone()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+Source:mscorlib
+Inner Exception
+*****************2019-04-15 13:37:39******************
+isTerminating=1
+Exception:
+Message:未将对象引用设置到对象的实例。
+StackTrace:   在 EntropyRiseStockTP0.frm_MainX.StartWriteHistoryThread() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 399
+   在 EntropyRiseStockTP0.frm_MainX.ConnectTdx() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 264
+   在 EntropyRiseStockTP0.frm_MainX.StartConnectTDX() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 254
+   在 EntropyRiseStockTP0.frm_MainX.rbt_start_Click(Object sender, EventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 217
+   在 C1.Win.C1Ribbon.RibbonButton.OnClick(EventArgs e)
+   在 C1.Win.C1Ribbon.RibbonButton.j()
+   在 C1.Win.C1Ribbon.a0.f()
+   在 C1.Win.C1Ribbon.a0.av()
+   在 C1.Win.C1Ribbon.c.c()
+   在 C1.Win.C1Ribbon.c.a(MouseEventArgs A_0)
+   在 C1.Framework.XView.OnMouseUp(MouseEventArgs e)
+   在 C1.Win.C1Ribbon.C1Ribbon.OnMouseUp(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 C1.Framework.ScrollableControl.WndProc(Message& m)
+   在 C1.Win.C1Ribbon.C1Ribbon.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.Run(Form mainForm)
+   在 EntropyRiseStockTP0.Program.Main() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\Program.cs:行号 30
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.Runtime.Hosting.ManifestRunner.Run(Boolean checkAptModel)
+   在 System.Runtime.Hosting.ManifestRunner.ExecuteAsAssembly()
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext, String[] activationCustomData)
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext)
+   在 System.Activator.CreateInstance(ActivationContext activationContext)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssemblyDebugInZone()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+Source:EntropyRiseStockTP0
+Inner Exception
+*****************2019-04-15 13:44:52******************
+isTerminating=1
+Exception:
+Message:已添加了具有相同键的项。
+StackTrace:   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 TradeAPIFcoin.TradeAPI.Subscribe(String code, String subType, String instrumentType)
+   在 EntropyRiseStockTP0.frm_MainX.StartGetData() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 316
+   在 EntropyRiseStockTP0.frm_MainX.ConnectTdx() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 263
+   在 EntropyRiseStockTP0.frm_MainX.StartConnectTDX() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 254
+   在 EntropyRiseStockTP0.frm_MainX.rbt_start_Click(Object sender, EventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 217
+   在 C1.Win.C1Ribbon.RibbonButton.OnClick(EventArgs e)
+   在 C1.Win.C1Ribbon.RibbonButton.j()
+   在 C1.Win.C1Ribbon.a0.f()
+   在 C1.Win.C1Ribbon.a0.av()
+   在 C1.Win.C1Ribbon.c.c()
+   在 C1.Win.C1Ribbon.c.a(MouseEventArgs A_0)
+   在 C1.Framework.XView.OnMouseUp(MouseEventArgs e)
+   在 C1.Win.C1Ribbon.C1Ribbon.OnMouseUp(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 C1.Framework.ScrollableControl.WndProc(Message& m)
+   在 C1.Win.C1Ribbon.C1Ribbon.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.Run(Form mainForm)
+   在 EntropyRiseStockTP0.Program.Main() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\Program.cs:行号 30
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.Runtime.Hosting.ManifestRunner.Run(Boolean checkAptModel)
+   在 System.Runtime.Hosting.ManifestRunner.ExecuteAsAssembly()
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext, String[] activationCustomData)
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext)
+   在 System.Activator.CreateInstance(ActivationContext activationContext)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssemblyDebugInZone()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+Source:mscorlib
+Inner Exception
+*****************2019-04-15 13:48:24******************
+isTerminating=1
+Exception:
+Message:已添加了具有相同键的项。
+StackTrace:   在 System.ThrowHelper.ThrowArgumentException(ExceptionResource resource)
+   在 System.Collections.Generic.Dictionary`2.Insert(TKey key, TValue value, Boolean add)
+   在 System.Collections.Generic.Dictionary`2.Add(TKey key, TValue value)
+   在 TradeAPIFcoin.TradeAPI.Subscribe(String code, String subType, String instrumentType)
+   在 EntropyRiseStockTP0.frm_MainX.StartGetData() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 316
+   在 EntropyRiseStockTP0.frm_MainX.ConnectTdx() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 263
+   在 EntropyRiseStockTP0.frm_MainX.StartConnectTDX() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 254
+   在 EntropyRiseStockTP0.frm_MainX.rbt_start_Click(Object sender, EventArgs e) 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\frm_MainX.cs:行号 217
+   在 C1.Win.C1Ribbon.RibbonButton.OnClick(EventArgs e)
+   在 C1.Win.C1Ribbon.RibbonButton.j()
+   在 C1.Win.C1Ribbon.a0.f()
+   在 C1.Win.C1Ribbon.a0.av()
+   在 C1.Win.C1Ribbon.c.c()
+   在 C1.Win.C1Ribbon.c.a(MouseEventArgs A_0)
+   在 C1.Framework.XView.OnMouseUp(MouseEventArgs e)
+   在 C1.Win.C1Ribbon.C1Ribbon.OnMouseUp(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 C1.Framework.ScrollableControl.WndProc(Message& m)
+   在 C1.Win.C1Ribbon.C1Ribbon.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.DebuggableCallback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+   在 System.Windows.Forms.UnsafeNativeMethods.DispatchMessageW(MSG& msg)
+   在 System.Windows.Forms.Application.ComponentManager.System.Windows.Forms.UnsafeNativeMethods.IMsoComponentManager.FPushMessageLoop(IntPtr dwComponentID, Int32 reason, Int32 pvLoopData)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoopInner(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.ThreadContext.RunMessageLoop(Int32 reason, ApplicationContext context)
+   在 System.Windows.Forms.Application.Run(Form mainForm)
+   在 EntropyRiseStockTP0.Program.Main() 位置 d:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\EntropyRiseStockTP0\Program.cs:行号 30
+   在 System.AppDomain._nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.AppDomain.nExecuteAssembly(RuntimeAssembly assembly, String[] args)
+   在 System.Runtime.Hosting.ManifestRunner.Run(Boolean checkAptModel)
+   在 System.Runtime.Hosting.ManifestRunner.ExecuteAsAssembly()
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext, String[] activationCustomData)
+   在 System.Runtime.Hosting.ApplicationActivator.CreateInstance(ActivationContext activationContext)
+   在 System.Activator.CreateInstance(ActivationContext activationContext)
+   在 Microsoft.VisualStudio.HostingProcess.HostProc.RunUsersAssemblyDebugInZone()
+   在 System.Threading.ThreadHelper.ThreadStart_Context(Object state)
+   在 System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   在 System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   在 System.Threading.ThreadHelper.ThreadStart()
+Source:mscorlib
+Inner Exception

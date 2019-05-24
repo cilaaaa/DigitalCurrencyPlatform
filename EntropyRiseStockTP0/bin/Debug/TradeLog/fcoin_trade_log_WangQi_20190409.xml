@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TradeHistory>
+  <TradeDetail Guid="c75c2f24-f3f1-4fe3-ba9f-d254e40bbf5b">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:23:01.615</OpenOrderTime>
+    <OpenOrderPrice>5.3845</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3806</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.00026903</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409112257734184</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="4c4cd85a-dc24-4c1e-9375-7fdf1daa6d2a">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:25:32.844</OpenOrderTime>
+    <OpenOrderPrice>5.3781</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3659</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.000268295</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409112516891927</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="794f920f-3147-4d39-8515-52d21a0bdd83">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Buy</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:25:42.571</OpenOrderTime>
+    <OpenOrderPrice>5.3672</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3696</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.00026848</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409112533946143</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="68d5f2e3-f27f-4d84-a4b2-a58e2911382b">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:26:10.176</OpenOrderTime>
+    <OpenOrderPrice>5.3693</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3693</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.000268465</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409112608496460</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="a0f3c861-7b08-4aab-8cd0-cf6b7ea4bb18">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Buy</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:26:43.895</OpenOrderTime>
+    <OpenOrderPrice>5.3712</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3765</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.000268825</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409112637801763</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="4bb8cf58-68b3-4a05-9bae-dc0fbaeb5e29">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:31:44.248</OpenOrderTime>
+    <OpenOrderPrice>5.3557</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3547</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.000267735</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409113139497801</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="fbc7cd5d-4b26-41ba-b598-2d017d716755">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:33:20.086</OpenOrderTime>
+    <OpenOrderPrice>5.3496</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.35</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.0002675</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409113318571559</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="4a637565-0988-4dee-8606-10dc6891c6a8">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:33:31.089</OpenOrderTime>
+    <OpenOrderPrice>5.3473</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3484</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.00026742</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409113329276434</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="a8c3eb00-83e6-4f54-9667-47fd129f0ef0">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:33:36.041</OpenOrderTime>
+    <OpenOrderPrice>5.3473</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.347</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.00026735</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409113331630494</Remark>
+  </TradeDetail>
+  <TradeDetail Guid="968f8924-b668-4d68-a4d0-fdae84fbbc47">
+    <PolicyName>PolicyBtcFuture0318</PolicyName>
+    <Code>eosusdt</Code>
+    <OHQty>0.1</OHQty>
+    <GainPolicy>0</GainPolicy>
+    <GainActure>0</GainActure>
+    <OpenOrderType>Sell</OpenOrderType>
+    <OpenOrderTime>2019-04-09 11:33:46.515</OpenOrderTime>
+    <OpenOrderPrice>5.3428</OpenOrderPrice>
+    <OpenOrderQty>0.1</OpenOrderQty>
+    <OpenDealPrice>5.3383</OpenDealPrice>
+    <OpenDealQty>0.1</OpenDealQty>
+    <OpenFee>-0.000266915</OpenFee>
+    <CloseOrderType>Buy</CloseOrderType>
+    <CloseOrderTime>
+    </CloseOrderTime>
+    <CloseOrderPrice>0</CloseOrderPrice>
+    <CloseOrderQty>0</CloseOrderQty>
+    <CloseDealPrice>0</CloseDealPrice>
+    <CloseDealQty>0</CloseDealQty>
+    <CloseFee>0</CloseFee>
+    <Account>WangQi</Account>
+    <Remark>20190409113341427385</Remark>
+  </TradeDetail>
+</TradeHistory>

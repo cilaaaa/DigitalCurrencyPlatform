@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FutureTimeRange>
+	<Item code="BTC-USD-SWAP" name="BTC永续" market="okex" minqty="1" jingdu="1" pricejingdu="0.1" type="swap" contractval="100"></Item>
+	<Item code="BTC-USD-190628" name="BTC季度" market="okex" minqty="1" jingdu="1" pricejingdu="0.01" type="futures" contractval="100"></Item>
+	<Item code="EOS-USD-190628" name="EOS季度" market="okex" minqty="1" jingdu="1" pricejingdu="0.001" type="futures" contractval="10"></Item>
+	<Item code="LTC-USD-190628" name="LTC季度" market="okex" minqty="1" jingdu="1" pricejingdu="0.001" type="futures" contractval="10"></Item>
+	<Item code="EOS-USDT" name="EOS现货" market="okex" minqty="0.1" jingdu="10000" pricejingdu="0.001" type="spot" contractval="1"></Item>
+	<Item code="BTC-USDT" name="BTC现货" market="okex" minqty="0.001" jingdu="100000000" pricejingdu="0.1" type="spot" contractval="1"></Item>
+	<Item code="ETH-USDT" name="ETH现货" market="okex" minqty="0.001" jingdu="100000000" pricejingdu="0.01" type="spot" contractval="1"></Item>
+	<Item code="EOS-BTC" name="EOSBTC" market="okex" minqty="0.1" jingdu="10000" pricejingdu="0.0000001" type="spot" contractval="1"></Item>
+	<Item code="EOS-ETH" name="EOSETH" market="okex" minqty="0.1" jingdu="10000" pricejingdu="0.0000001" type="spot" contractval="1"></Item>
+	<Item code="ETH-BTC" name="ETH-BTC" market="okex" minqty="0.1" jingdu="10000" pricejingdu="0.0000001" type="spot" contractval="1"></Item>
+	<Item code="btcusdt" name="比特币现货" market="fcoin" minqty="0.001" jingdu="10000" pricejingdu="0.01" type="spot" contractval="1"></Item>
+	<Item code="eosusdt" name="EOS现货" market="fcoin" minqty="0.1" jingdu="10000" pricejingdu="0.0001" type="spot" contractval="1"></Item>
+	<Item code="ethusdt" name="ETH现货" market="fcoin" minqty="0.001" jingdu="10000" pricejingdu="0.01" type="spot" contractval="1"></Item>
+	<Item code="eosbtc" name="EOSBTC" market="fcoin" minqty="0.1" jingdu="100" pricejingdu="0.00000001" type="spot" contractval="1"></Item>
+	<Item code="eosusdt" name="EOS现货" market="fcoinjp" minqty="0.1" jingdu="10000" pricejingdu="0.0001" type="spot" contractval="1"></Item>
+	<Item code="fjusdt" name="FJ现货" market="fcoinjp" minqty="0.1" jingdu="100" pricejingdu="0.000001" type="spot" contractval="1"></Item>
+	<Item code="eosusdt" name="EOS现货" market="huobi" minqty="0.1" jingdu="10000" pricejingdu="0.0001" type="spot" contractval="1"></Item>
+	<Item code="zecusdt" name="ZEC现货" market="huobi" minqty="0.001" jingdu="10000" pricejingdu="0.01" type="spot" contractval="1"></Item>
+</FutureTimeRange>

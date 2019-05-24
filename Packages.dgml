@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="LeftToRight" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="PolicyBtcFuture1225" Label="PolicyBtcFuture1225" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="TradeAPIHuoBi" Label="TradeAPIHuoBi" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="SuperSocket.ClientEngine.Core 0.10.0" Label="SuperSocket.ClientEngine.Core 0.10.0" Category="包" />
+    <Node Id="WebSocket4Net 0.15.2" Label="WebSocket4Net 0.15.2" Category="包" />
+    <Node Id="TradeAPIFcoinJP" Label="TradeAPIFcoinJP" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="SuperSocket.ClientEngine.Core 0.10.0" Label="SuperSocket.ClientEngine.Core 0.10.0" Category="包" />
+    <Node Id="WebSocket4Net 0.15.2" Label="WebSocket4Net 0.15.2" Category="包" />
+    <Node Id="PolicyBtcFuture0226" Label="PolicyBtcFuture0226" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="TradeAPIFcoin" Label="TradeAPIFcoin" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="SuperSocket.ClientEngine.Core 0.10.0" Label="SuperSocket.ClientEngine.Core 0.10.0" Category="包" />
+    <Node Id="WebSocket4Net 0.15.2" Label="WebSocket4Net 0.15.2" Category="包" />
+    <Node Id="StockTrade" Label="StockTrade" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="TradeAPIOkex" Label="TradeAPIOkex" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="SuperSocket.ClientEngine.Core 0.10.0" Label="SuperSocket.ClientEngine.Core 0.10.0" Category="包" />
+    <Node Id="WebSocket4Net 0.15.2" Label="WebSocket4Net 0.15.2" Category="包" />
+    <Node Id="PolicyBtcFuture0111" Label="PolicyBtcFuture0111" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="StockTradeAPI" Label="StockTradeAPI" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="SuperSocket.ClientEngine.Core 0.10.0" Label="SuperSocket.ClientEngine.Core 0.10.0" Category="包" />
+    <Node Id="WebSocket4Net 0.15.2" Label="WebSocket4Net 0.15.2" Category="包" />
+    <Node Id="StockPolicyContorl" Label="StockPolicyContorl" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="StockPolicies" Label="StockPolicies" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="PolicyClient" Label="PolicyClient" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="DataBase" Label="DataBase" Category="项目" />
+    <Node Id="CsvTools 1.0.12" Label="CsvTools 1.0.12" Category="包" />
+    <Node Id="EntropyRiseStockTP0" Label="EntropyRiseStockTP0" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+    <Node Id="GeneralForm" Label="GeneralForm" Category="项目" />
+    <Node Id="Newtonsoft.Json 12.0.1" Label="Newtonsoft.Json 12.0.1" Category="包" />
+  </Nodes>
+  <Links>
+    <Link Source="PolicyBtcFuture1225" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="TradeAPIHuoBi" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="TradeAPIHuoBi" Target="WebSocket4Net 0.15.2" Category="安装的程序包" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="TradeAPIFcoinJP" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="TradeAPIFcoinJP" Target="WebSocket4Net 0.15.2" Category="安装的程序包" />
+    <Link Source="PolicyBtcFuture0226" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="TradeAPIFcoin" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="TradeAPIFcoin" Target="WebSocket4Net 0.15.2" Category="安装的程序包" />
+    <Link Source="StockTrade" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="TradeAPIOkex" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="TradeAPIOkex" Target="WebSocket4Net 0.15.2" Category="安装的程序包" />
+    <Link Source="PolicyBtcFuture0111" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="WebSocket4Net 0.15.2" Target="SuperSocket.ClientEngine.Core 0.10.0" Category="程序包依赖项" />
+    <Link Source="StockTradeAPI" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="StockTradeAPI" Target="WebSocket4Net 0.15.2" Category="安装的程序包" />
+    <Link Source="StockPolicyContorl" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="StockPolicies" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="PolicyClient" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="DataBase" Target="CsvTools 1.0.12" Category="安装的程序包" />
+    <Link Source="EntropyRiseStockTP0" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+    <Link Source="GeneralForm" Target="Newtonsoft.Json 12.0.1" Category="安装的程序包" />
+  </Links>
+  <Categories>
+    <Category Id="项目" />
+    <Category Id="包" />
+  </Categories>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="项目" ValueLabel="True">
+      <Condition Expression="HasCategory('项目')" />
+      <Setter Property="Background" Value="Blue" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="程序包依赖项" ValueLabel="True">
+      <Condition Expression="HasCategory('程序包依赖项')" />
+      <Setter Property="Background" Value="Yellow" />
+    </Style>
+  </Styles>
+</DirectedGraph>

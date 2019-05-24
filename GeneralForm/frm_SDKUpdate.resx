@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="c1ThemeController1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="c1ThemeController1.ApplicationTheme" xml:space="preserve">
+    <value>(none)</value>
+  </metadata>
+  <data name="grid_policy.ColumnInfo" xml:space="preserve">
+    <value>5,1,0,0,0,105,Columns:1{Width:50;AllowSorting:False;Caption:"序号";AllowDragging:False;AllowResizing:False;AllowEditing:False;Style:"TextAlign:RightCenter;ImageAlign:RightCenter;";StyleFixed:"TextAlign:RightCenter;ImageAlign:RightCenter;";}	2{Width:100;AllowSorting:False;Caption:"插件名";AllowDragging:False;AllowResizing:False;AllowEditing:False;Style:"TextAlign:RightCenter;ImageAlign:RightCenter;";StyleFixed:"TextAlign:RightCenter;ImageAlign:RightCenter;";}	3{Width:130;AllowSorting:False;Caption:"描述";AllowDragging:False;AllowResizing:False;AllowEditing:False;Style:"TextAlign:RightCenter;ImageAlign:RightCenter;";StyleFixed:"TextAlign:RightCenter;ImageAlign:RightCenter;";}	4{Width:40;AllowSorting:False;Caption:"删除";AllowDragging:False;AllowResizing:False;AllowEditing:False;Style:"TextAlign:CenterCenter;ImageAlign:CenterCenter;";StyleFixed:"TextAlign:CenterCenter;ImageAlign:CenterCenter;";}	</value>
+  </data>
+  <data name="grid_policy.StyleInfo" xml:space="preserve">
+    <value>Normal{BackColor:30, 30, 30;ForeColor:224, 224, 224;SearchBackColor:Orange;Border:Flat,1,43, 43, 43,Both;BackgroundImageLayout:LeftTop;}	Alternate{BackColor:46, 46, 46;ForeColor:224, 224, 224;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Fixed{BackColor:45, 45, 48;ForeColor:White;SearchBackColor:Orange;Border:Flat,1,67, 67, 70,Both;BackgroundImageLayout:LeftTop;}	Highlight{BackColor:0, 122, 204;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Focus{BackColor:30, 30, 30;ForeColor:224, 224, 224;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Editor{BackColor:30, 30, 30;ForeColor:224, 224, 224;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Search{BackColor:0, 122, 204;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Frozen{BackColor:64, 64, 64;ForeColor:224, 224, 224;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	FrozenAlternate{BackColor:64, 64, 64;ForeColor:224, 224, 224;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	NewRow{BackColor:30, 30, 30;ForeColor:GrayText;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	EmptyArea{BackColor:63, 63, 70;ForeColor:224, 224, 224;SearchBackColor:Orange;Border:Flat,1,ControlDarkDark,Both;BackgroundImageLayout:LeftTop;}	SelectedColumnHeader{BackColor:0, 122, 204;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	SelectedRowHeader{BackColor:0, 122, 204;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	GrandTotal{BackColor:45, 45, 48;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Subtotal0{BackColor:51, 51, 55;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Subtotal1{BackColor:51, 51, 55;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Subtotal2{BackColor:51, 51, 55;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Subtotal3{BackColor:51, 51, 55;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Subtotal4{BackColor:51, 51, 55;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	Subtotal5{BackColor:51, 51, 55;ForeColor:White;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	FilterEditor{BackColor:30, 30, 30;ForeColor:224, 224, 224;SearchBackColor:Orange;BackgroundImageLayout:LeftTop;}	FirstCustomStyle{}	</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="grid_policy.Tree.NodeImageCollapsed" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAANjr9RwUqgAAACBjSFJNAACH
+        EAAAjBIAAR7/AABnowAAPlkAAUhLAAAOTAAAAAvnJv/yAAAB2mlDQ1BQaG90b3Nob3AgSUNDIHByb2Zp
+        bGUAADjLnZPPa9RQEMe/25XWQy0iFTwOvZjFVRC8rIK03dYqIWRJe1Dxkiavu8HmBy8v1d4K9c+w/0EP
+        PXnzP/AHUvDsHyEe1e/buJpFemgHZvLJvJm8mTcvQPvY7XubM1eBNDM62FiVp8+ey9wnzKOFa7iP62FU
+        Ft7moy1QXH9tJfA9D/+kBfz4ai1wesuu43wyHxXa8DOL5MexKiPyC/LhK1NY/zfyot4K+uTv5IVhg7cb
+        rFk4MHPJxg9rvmF5u+au5TjNYvIyOYvT2PIJ+Uua5uT2G7Jj1GtjC+vnxb5OhiMjTtSR9bA0aZiJm8fh
+        S+nnaRFm+1252+v1uhLu7so4tBStSqX3VHwHdS9juTLQ+WCUm1x4wJPGF37+wgAaOe2I1lAFATawembO
+        ecXOsqa/M+pGld6bzK71sRnz4R7w5P103tJb4N3Dad/lWRrq6e1Gj7N29u5k4zk258LHGlbg/r98UWns
+        dzNQO0qrLFLiV6aojHgqTqqUD6OTyLHXtCMyyXRYUACFHaqmZohohSVWPPlibAUefTESvqV/3gyjE8Y6
+        zPbp8dDhilyggrOkvnvjM+JfeNRuUU4+PziYjgJ+A6pCmanycbh+AAAACXBIWXMAAA68AAAOvAGVvHJJ
+        AAAAaklEQVQ4T6XM0QnAIBAEUfsvIF0E0uHFBQ8WM0EPPx4JI7ctIo5grMBYgbECo1z3Ex2+OYwyBpYj
+        GCWPVyMYRYf+/zeCUeYjH3SfkHxgHnMYJY/0nd8cRhkD/ZffE0bZORaMFRgrMO6L9gJz/PMV6nq0uQAA
+        AABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="grid_policy.Tree.NodeImageExpanded" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAANjr9RwUqgAAACBjSFJNAACH
+        EAAAjBIAAR7/AABnowAAPlkAAUhLAAAOTAAAAAvnJv/yAAAB2mlDQ1BQaG90b3Nob3AgSUNDIHByb2Zp
+        bGUAADjLnZPPa9RQEMe/25XWQy0iFTwOvZjFVRC8rIK03dYqIWRJe1Dxkiavu8HmBy8v1d4K9c+w/0EP
+        PXnzP/AHUvDsHyEe1e/buJpFemgHZvLJvJm8mTcvQPvY7XubM1eBNDM62FiVp8+ey9wnzKOFa7iP62FU
+        Ft7moy1QXH9tJfA9D/+kBfz4ai1wesuu43wyHxXa8DOL5MexKiPyC/LhK1NY/zfyot4K+uTv5IVhg7cb
+        rFk4MHPJxg9rvmF5u+au5TjNYvIyOYvT2PIJ+Uua5uT2G7Jj1GtjC+vnxb5OhiMjTtSR9bA0aZiJm8fh
+        S+nnaRFm+1252+v1uhLu7so4tBStSqX3VHwHdS9juTLQ+WCUm1x4wJPGF37+wgAaOe2I1lAFATawembO
+        ecXOsqa/M+pGld6bzK71sRnz4R7w5P103tJb4N3Dad/lWRrq6e1Gj7N29u5k4zk258LHGlbg/r98UWns
+        dzNQO0qrLFLiV6aojHgqTqqUD6OTyLHXtCMyyXRYUACFHaqmZohohSVWPPlibAUefTESvqV/3gyjE8Y6
+        zPbp8dDhilyggrOkvnvjM+JfeNRuUU4+PziYjgJ+A6pCmanycbh+AAAACXBIWXMAAA68AAAOvAGVvHJJ
+        AAAAWklEQVQ4T6XMwQmAQAwF0fRfgGARgoXYU3QPC5LMwVkPD2TWn8jMXzAaGA2MBkYDo4GxunKP7Tif
+        z/7WQjXHywfmeOnAe6wP1LE6QOOh/je0YGE0MBoYv8u4AXuq+waXYnowAAAAAElFTkSuQmCC
+</value>
+  </data>
+</root>

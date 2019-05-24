@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ReceiveCode>
+  <Item code="BTC-USD-190628" name="BTC季度" market="okex" minqty="1" jingdu="1" pricejingdu="0.01" type="futures" contractval="100" />
+</ReceiveCode>

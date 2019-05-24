@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FutureTimeRange>
+	<Item code="BTC-USD-SWAP" name="BTC永续" market="0" minqty="1" jingdu="1" pricejingdu="0.1" type="swap" contractval="100"></Item>
+	<Item code="EOS-USD-QUARTER" name="EOS季度" market="0" minqty="1" jingdu="1" pricejingdu="0.001" type="futures" contractval="10"></Item>
+	<Item code="BTC-USD-QUARTER" name="BTC季度" market="0" minqty="1" jingdu="1" pricejingdu="0.01" type="futures" contractval="100"></Item>
+	<Item code="cfIF1811" name="cfIF1811" market="future" minqty="1" jingdu="1" pricejingdu="0.1" type="futures" contractval="1000000"></Item>
+	<Item code="BTC-USDT" name="BTC现货" market="0" minqty="1" jingdu="1" pricejingdu="0.0001" type="spot" contractval=""></Item>
+	<Item code="EOS-USD-190329" name="EOS季度" market="0" minqty="1" jingdu="1" pricejingdu="0.001" type="futures" contractval="10"></Item>
+	<Item code="XBTUSD" name="XBTUSD" market="0" minqty="1" jingdu="1" pricejingdu="0.5"  type="futures" 
+	contractval="1"></Item>
+	<Item code="rb" name="RB" market="0" minqty="1" jingdu="1" pricejingdu="0.5"  type="futures" 
+	contractval="10"></Item>
+</FutureTimeRange>

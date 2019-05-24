@@ -1,0 +1,6 @@
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataBase\bin\Debug\DataBase.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataBase\bin\Debug\DataBase.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataBase\bin\Debug\LumenWorks.Framework.IO.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataBase\obj\Debug\DataBase.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\DataBase\obj\Debug\DataBase.pdb

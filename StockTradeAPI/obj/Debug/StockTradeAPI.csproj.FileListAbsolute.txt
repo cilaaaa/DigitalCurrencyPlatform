@@ -1,0 +1,15 @@
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\StockTradeAPI.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\StockTradeAPI.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\DataBase.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\Newtonsoft.Json.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\StockData.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\SuperSocket.ClientEngine.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\WebSocket4Net.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\LumenWorks.Framework.IO.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\DataBase.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\StockData.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\Newtonsoft.Json.pdb
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\bin\Debug\Newtonsoft.Json.xml
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\obj\Debug\StockTradeAPI.csprojResolveAssemblyReference.cache
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\obj\Debug\StockTradeAPI.dll
+D:\DigitalCurrencyPlatform\DigitalCurrencyPlatform\StockTradeAPI\obj\Debug\StockTradeAPI.pdb

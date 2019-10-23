@@ -37,8 +37,8 @@ namespace TradeAPIOkex
             EnableCID = System.Convert.ToBoolean(inifile.GetString(market, "enableCID", "false"));
             name = inifile.GetString(market, "name", "WangQi");
             domain = inifile.GetString(market, "domain", "");
-            apiKey = inifile.GetString(market, "apiKey", "157661a4-4b09-4be4-8cde-1530a6701f23");
-            apiSecret = inifile.GetString(market, "apiSecret", "532558D9DB653B9BB3C9759C98762420");
+            apiKey = inifile.GetString(market, "apiKey", "");
+            apiSecret = inifile.GetString(market, "apiSecret", "");
             passPhrase = inifile.GetString(market, "passPhrase", "init1234");
             makerFeePercent = System.Convert.ToDouble(inifile.GetString(market, "makerFeePercent", "0"));
             takerFeePercent = System.Convert.ToDouble(inifile.GetString(market, "takerFeePercent", "0"));
